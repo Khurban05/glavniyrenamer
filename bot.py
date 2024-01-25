@@ -15,7 +15,7 @@ STRING = os.environ.get("STRING", "")
 
 bot = Client(
 
-           "Renamer",
+           "renamer",
 
            bot_token=TOKEN,
 
